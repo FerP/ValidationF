@@ -23,7 +23,7 @@ First: Add the following markup
 <div class="row card-panel">
 		<div class="col s6 ">
 		<form id="form">
-    <p><label>Name <span>*</span>:</label><input type="text" class="required texto"/></p>
+    &p&&label>Name <span>*</span>:</label><input type="text" class="required texto"/></p>
     <p><label>Password <span>*</span>:</label><input type="password" class="required password"/></p>
 	<p><label>Date:</label><input type="text" class="date" placeholder="dd-mm-yyyy"/></p>
 	<p><label>Year:</label><input type="text" class="number"/></p>
