@@ -18,7 +18,23 @@ This jQuery plugin allows:
 
 Four steps are needed to include it into your project:
 
-&nbsp;p><label>Date:</label><input type="text" class="date" placeholder="dd-mm-yyyy"/></p>
+First: Add the following markup
+
+<div class="row card-panel">
+		<div class="col s6 ">
+		<form id="form">
+    <p><label>Name <span>*</span>:</label><input type="text" class="required texto"/></p>
+    <p><label>Password <span>*</span>:</label><input type="password" class="required password"/></p>
+	<p><label>Date:</label><input type="text" class="date" placeholder="dd-mm-yyyy"/></p>
+	<p><label>Year:</label><input type="text" class="number"/></p>
+    <p><label>E-Mail:</label><input type="text" class="email"/></p>
+    <p><label>Phone:</label><input type="text" class="phone" placeholder="999-999-999"/></p>
+    <p><label>&nbsp;</label><button type="submit">Submit</button></p>
+</form>	
+	</div>
+	</div>
+	
+Second: link the estilos.css stylesheet
 
 
 Third: do not forget to add jQuery (1.5+) in the way that you prefer. For instance:
@@ -32,7 +48,6 @@ Fourth: add the ValidationF file at the bottom of the body:
 Fifth: call the function
 
    $('#form').validationF();
-
 
 ## Browser support
 
