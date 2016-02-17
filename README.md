@@ -19,7 +19,7 @@ This jQuery plugin allows:
 Four steps are needed to include it into your project:
 
 First: Add the following markup
-
+```html
 <div class="row card-panel">
 <div class="col s6 ">
 <form id="form">
