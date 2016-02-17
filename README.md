@@ -25,10 +25,10 @@ First: Add the following markup
 <form id="form">
 <p><label>Name <span>*</span>:</label><input type="text" class="required texto"/></p>
 <p><label>Password <span>*</span>:</label><input type="password" class="required password"/></p>
-	<p><label>Date:</label><input type="text" class="required date" placeholder="dd-mm-yyyy"/></p>
-	<p><label>Year:</label><input type="text" class="required number"/></p>
-    <p><label>E-Mail:</label><input type="text" class="required email"/></p>
-    <p><label>Phone:</label><input type="text" class="required phone" placeholder="999-999-999"/></p>
+	<p><label>Date <span>*</span>:</label><input type="text" class="required date" placeholder="dd-mm-yyyy"/></p>
+	<p><label>Year <span>*</span>:</label><input type="text" class="required number"/></p>
+    <p><label>E-Mail <span>*</span>:</label><input type="text" class="required email"/></p>
+    <p><label>Phone <span>*</span>:</label><input type="text" class="required phone" placeholder="999-999-999"/></p>
     <p><label>&nbsp;</label><button type="submit">Submit</button></p>
 </form>	
 </div>
