@@ -1,4 +1,4 @@
-# FerP.github.io
+ FerP.github.io
 
 # validationF
 
@@ -48,18 +48,3 @@ Fourth: add the ValidationF file at the bottom of the body:
 Fifth: call the function
 
    $('#form').validationF();
-
-## Browser support
-
-The project is tested in Chrome and Firefox. It should work in the current stable releases of Chrome, Firefox, Safari as well as IE8 and up.
-
-## Dependencies
-
-jQuery  v1.9 o superior.
-
-## Documentation
-URL gitHub
-
-## License
-
-MIT licensed
