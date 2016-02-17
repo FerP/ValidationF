@@ -32,7 +32,7 @@ First: Add the following markup
     <p><label>&nbsp;</label><button type="submit">Submit</button></p>
 </form>	
 	</div>
-	</div>
+
 	
 Second: link the estilos.css stylesheet
 
