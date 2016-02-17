@@ -21,10 +21,10 @@ Four steps are needed to include it into your project:
 First: Add the following markup
 
 <div class="row card-panel">
-		<div class="col s6 ">
-		<form id="form">
-    <p><label>Name <span>*</span>:</label><input type="text" class="required texto"/></p>
-    <p><label>Password <span>*</span>:</label><input type="password" class="required password"/></p>
+<div class="col s6 ">
+<form id="form">
+<p><label>Name <span>*</span>:</label><input type="text" class="required texto"/></p>
+<p><label>Password <span>*</span>:</label><input type="password" class="required password"/></p>
 	<p><label>Date:</label><input type="text" class="date" placeholder="dd-mm-yyyy"/></p>
 	<p><label>Year:</label><input type="text" class="number"/></p>
     <p><label>E-Mail:</label><input type="text" class="email"/></p>
