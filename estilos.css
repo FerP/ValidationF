@@ -1,0 +1,27 @@
+body { 
+    margin: 10px;
+    font-family: Arial;
+	font-size:15px;
+}
+label, input { display: inline-block; }
+label { width: 100px; }
+label span { color: red; }
+input { 
+    padding: 0 .3em; 
+    height: 18px;
+    line-height: 18px;
+    width: 150px;
+    border: 1px solid #666;
+}
+input.invalido {
+    background: #FFFAC4;
+}
+
+.error {
+    display: inline;
+    padding: 0px;
+    font-size: 14px;
+	height: 18px;
+    line-height: 18px;
+    color: red;
+}
