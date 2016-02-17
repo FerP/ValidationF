@@ -31,22 +31,23 @@ First: Add the following markup
     <p><label>Phone:</label><input type="text" class="phone" placeholder="999-999-999"/></p>
     <p><label>&nbsp;</label><button type="submit">Submit</button></p>
 </form>	
-	</div>
 </div>
-```html	
+</div>
+```
 Second: link the estilos.css stylesheet
-```html
-</div>
+
+
 
 Third: do not forget to add jQuery (1.5+) in the way that you prefer. For instance:
 ```html
 </div>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-  
+  ```
 Fourth: add the ValidationF file at the bottom of the body:
 ```html
   <script src="js/validationF.js"></script>`
-  
+  ```
 Fifth: call the function
 ```html
    $('#form').validationF();
+```
