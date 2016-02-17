@@ -20,20 +20,7 @@ Four steps are needed to include it into your project:
 
 First: Add the following markup
 
-<div class="row card-panel">
-		<div class="col s6 ">
-&ltform id="form"&gt
-    &ltp&gt&ltlabel&gtName &ltspan&gt*&lt/span&gt:&lt/label&gt&ltinput type="text" class="required texto"/&gt&lt/p&gt
-    &ltp&gt&ltlabel&gtPassword &ltspan&gt*&lt/span&gt:&lt/label&gt&ltinput type="password" class="required password"/&gt&lt/p&gt
-	&ltp&gt&ltlabel&gtDate:&lt/label&gt&ltinput type="text" class="date" placeholder="dd-mm-yyyy"/&gt&lt/p&gt
-	&ltp&gt&ltlabel&gtYear:&lt/label&gt&ltinput type="text" class="number"/&gt&lt/p&gt
-    &ltp&gt&ltlabel&gtE-Mail:&lt/label&gt&ltinput type="text" class="email"/&gt&lt/p&gt
-    &ltp&gt&ltlabel&gtPhone:&lt/label&gt&ltinput type="text" class="phone" placeholder="999-999-999"/&gt&lt/p&gt
-    &ltp&gt&ltlabel&gt&nbsp;&lt/label&gt&ltbutton type="submit"&gtSubmit&lt/button&gt&lt/p&gt
-&lt/form&gt
-</form>	
-	</div>
-	</div>
+<p><label>&nbsp;</label><button type="submit">Submit</button></p>
 	
 Second: link the estilos.css stylesheet
 
