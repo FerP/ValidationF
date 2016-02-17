@@ -32,13 +32,13 @@ First: Add the following markup
     <p><label>&nbsp;</label><button type="submit">Submit</button></p>
 </form>	
 	</div>
-
+</div>
 	
 Second: link the estilos.css stylesheet
-
+</div>
 
 Third: do not forget to add jQuery (1.5+) in the way that you prefer. For instance:
-
+</div>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
   
 Fourth: add the ValidationF file at the bottom of the body:
