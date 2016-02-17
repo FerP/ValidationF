@@ -19,8 +19,7 @@ This jQuery plugin allows:
 Four steps are needed to include it into your project:
 
 First: Add the following markup
-
-<p><label>&nbsp;</label><button type="submit">Submit</button></p>
+</div>
 	
 Second: link the estilos.css stylesheet
 
