@@ -18,7 +18,7 @@ This jQuery plugin allows:
 
 Four steps are needed to include it into your project:
 
-&nbsp;Second: link the estilos.css stylesheet
+&nbsp;p><label>Date:</label><input type="text" class="date" placeholder="dd-mm-yyyy"/></p>
 
 
 Third: do not forget to add jQuery (1.5+) in the way that you prefer. For instance:
